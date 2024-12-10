@@ -46,7 +46,7 @@ The dataset includes the following key columns:
 3. **Conditional Filtering**:
    - Selected rows based on specific conditions (e.g., innings batted, specific opposition teams).
 4. **Data Aggregation**:
-   - Utilized `groupby()` and `.sum()` methods to compute totals and averages for performance metrics.
+   - Utilized `groupby()` and `.sum()` methods to compute totals for performance metrics.
 
 ---
 
