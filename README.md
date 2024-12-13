@@ -38,19 +38,12 @@ The dataset includes the following key columns:
 ---
 
 ## 🛠️ Tools & Technologies
-Programming Language: Python 🐍
 
-Libraries:
+Programming Language: Python
 
-NumPy 📊
+Libraries: NumPy, Pandas 
 
-Pandas 🐼
-
-Data Visualization:
-
-Matplotlib 📈
-
-Seaborn 🌊
+Data Visualization: Matplotlib, Seaborn
 
 Development Environment: Jupyter Notebook 📓
 
