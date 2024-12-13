@@ -37,6 +37,25 @@ The dataset includes the following key columns:
 
 ---
 
+🛠️ Tools & Technologies
+Programming Language: Python 🐍
+
+Libraries:
+
+NumPy 📊
+
+Pandas 🐼
+
+Data Visualization:
+
+Matplotlib 📈
+
+Seaborn 🌊
+
+Development Environment: Jupyter Notebook 📓
+
+---
+
 ## 🛠️ Data Cleaning and Preparation
 
 1. **Handling Missing Values**:
