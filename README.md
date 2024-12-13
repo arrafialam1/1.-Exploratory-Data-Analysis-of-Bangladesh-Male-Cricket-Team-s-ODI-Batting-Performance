@@ -37,7 +37,7 @@ The dataset includes the following key columns:
 
 ---
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Programming Language: Python 🐍
 
 Libraries:
@@ -56,7 +56,7 @@ Development Environment: Jupyter Notebook 📓
 
 ---
 
-## 🛠️ Data Cleaning and Preparation
+## 🧹 Data Cleaning and Preparation
 
 1. **Handling Missing Values**:
    - Replaced `NaN` (Not a Number) values with 0 using `numpy.nan_to_num()` for smooth analysis.
