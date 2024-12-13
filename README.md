@@ -1,6 +1,6 @@
 # 🏏 Bangladesh Male Cricket Team's ODI Batting Analysis (2001-2020)
 
-This project explores the batting performances of the Bangladesh male cricket team in One-Day Internationals (ODIs) from 2001 to 2020. Using Python for data cleaning, analysis, and visualization, the project highlights key player performances, team trends, and other insights.
+This project explores the batting performances of the Bangladesh male cricket team in One-Day Internationals (ODIs) from 2001 to 2020. Using Python for data cleaning, analysis, and visualization, the project highlights key player performances and team trends.
 
 ---
 
