@@ -45,7 +45,7 @@ Libraries: NumPy, Pandas
 
 Data Visualization: Matplotlib, Seaborn
 
-Development Environment: Jupyter Notebook 📓
+Development Environment: Jupyter Notebook
 
 ---
 
